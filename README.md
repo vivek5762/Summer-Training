@@ -10,8 +10,15 @@ SL IV lab
 #Audithorium 
 Today we are reach audithorium at 12 40 p.m .
 2 The faculty gave us overview of institutional trainig.
+3. The HOD of cse department Kiran Jyoti mam  tell about trainig.
+4.Afer Vivek Thapar sir tell about courses.
 3 The marks distribution and evalaution criteria for trainining.
-4 
+4. The instruction were shared on how to access ,enroll to and NCET and Infosys Springboard.
+# SL IV lab
+1. After the Audithorium Session . We reached SL IV lab.
+2. We introduced  to our insititutional trainig  mentor, Professor Khushi.
+
+
 
 
 
