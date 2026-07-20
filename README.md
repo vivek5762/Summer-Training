@@ -120,4 +120,103 @@ Some career options discussed were:
 - tar command
 - gzip command
 - zip command
+1. Learned how to search text using the `grep` command.
+2. Practiced extracting data using the `awk` command.
+3. Used the `sed` command to find and replace text.
+4. Learned how to use the `man` command to view command manuals.
+5. Created archive files using the `tar` command.
+6. Compressed files using `gzip`.
+7. Created ZIP files using the `zip` command.
+
+### Commands Practiced
+
+```bash
+grep "Linux" file.txt
+awk '{print $1}' file.txt
+sed 's/Linux/Ubuntu/g' file.txt
+man ls
+tar -cvf backup.tar folder/
+gzip backup.tar
+zip -r backup.zip folder/
+```
+# Day 7
+
+## PC Hardware Troubleshooting
+
+### Topics Covered
+- Common PC Boot Issues
+- RAM Troubleshooting
+- HDD/SSD Troubleshooting
+- GPU Problems
+- PSU (Power Supply Unit) Issues
+
+### Practical Work
+
+1. Learned about common PC boot problems and their solutions.
+2. Identified RAM-related issues and troubleshooting methods.
+3. Studied HDD/SSD failure symptoms and solutions.
+4. Learned how to diagnose GPU display problems.
+5. Understood the role of the Power Supply Unit (PSU) and common PSU faults.
+6. Practiced basic hardware troubleshooting techniques.
+
+### Common Troubleshooting Steps
+
+- Check power cables and power supply.
+- Reseat RAM modules.
+- Verify HDD/SSD connections.
+- Check display cable and GPU.
+- Listen for POST beep codes.
+- Restart the system and check BIOS.
+
+### Learning Outcome
+
+- Learned how to identify common hardware problems.
+- Understood the troubleshooting process for PC components.
+- Improved practical knowledge of computer hardware maintenance.
+  # Day 8
+
+## Network Troubleshooting
+
+### Topics Covered
+- Diagnosing Connectivity Issues
+- Ping Command
+- Traceroute Command
+- IP Configuration (ipconfig/ifconfig)
+- DHCP and IP Conflicts
+- Router and Switch Configuration
+- Wi-Fi Troubleshooting
+- Firewall and Antivirus Checks
+
+### Practical Work
+
+1. Learned how to diagnose network connectivity issues.
+2. Used the ping command to check network connectivity.
+3. Practiced the traceroute command to identify network paths.
+4. Used ipconfig and ifconfig to view IP configuration.
+5. Learned to resolve IP conflicts and DHCP-related issues.
+6. Studied basic router and switch configuration.
+7. Troubleshot Wi-Fi connectivity problems such as weak signal and incorrect SSID.
+8. Checked firewall and antivirus settings that may block network access.
+   # Day 9
+
+## Introduction to HTML & Web Basics
+
+### Topics Covered
+- What is HTML
+- Structure of an HTML Document
+- HTML Tags
+- Headings and Paragraphs
+- Lists
+- Links
+- Images
+
+### Practical Work
+
+1. Learned the basics of HTML and how web browsers render web pages.
+2. Studied the structure of an HTML document (<!DOCTYPE html>, <html>, <head>, <body>).
+3. Created web pages using heading tags (<h1> to <h6>).
+4. Added paragraphs using the <p> tag.
+5. Created ordered and unordered lists using <ol> and <ul>.
+6. Added hyperlinks using the <a> tag.
+7. Inserted images using the <img> tag.
 
