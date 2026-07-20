@@ -109,13 +109,15 @@ Some career options discussed were:
 - Higher Studies
 - Freelancing
 - Startups and Entrepreneurship
+- 
+# Day 6 - Linux Text Processing & File Compression
 
-Conclusion
-
-The 5-day training program helped us learn the basics of Linux and Bash commands. We also learned about shell scripting, computer troubleshooting, networking, and different career opportunities available for CSE students.
-
-Overall, the training was useful for understanding some basic technical concepts and career options in the computer science field.
-
-
-
+## Topics Covered
+- grep command
+- awk command
+- sed command
+- man command
+- tar command
+- gzip command
+- zip command
 
